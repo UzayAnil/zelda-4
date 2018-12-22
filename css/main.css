@@ -1,0 +1,33 @@
+html {
+  box-sizing: border-box;
+  background-color: navy;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: white;
+  max-width: 1400px;
+}
+
+.logo-image {
+    width: 600px;
+    height: 244px
+}
+
+.logo {
+  background-color: #99c;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  list-style-type: none;
+}
